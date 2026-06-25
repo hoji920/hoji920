@@ -1,16 +1,22 @@
-## Hi there 👋
+## Jiho Choi
 
-<!--
-**hoji920/hoji920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student at Dongyang Mirae University (Computer Software Engineering).
+Interested in **time-series prediction, vision-language models, and embodied intelligence**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interest
+- Robust evaluation of ML models (leakage-free validation, regime shifts)
+- Time-series forecasting · Vision-Language Models · Surgical robot assistance
+
+### 📌 Featured Project
+**[Joomuk Bot — Nasdaq Stock Signal Ensemble](https://github.com/dmu-stock/nasdaq-signal-ml)**
+LightGBM + Dual-Input LSTM ensemble for stock ranking.
+Discovered a momentum-signal *regime inversion* (test AUC 0.45 / reverse 0.55)
+and resolved it leakage-free via walk-forward validation.
+
+### 🛠 Skills
+`Python` `PyTorch` `LightGBM` `scikit-learn` · `Java` `Spring Boot` · `Docker` `AWS`
+
+### 📫 Contact
+aha1026920@gmail.com
