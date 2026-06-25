@@ -1,6 +1,6 @@
 ## Jiho Choi
 
-Undergraduate student at Dongyang Mirae University (Computer Software Engineering).
+Backend Developer & Undergraduate student at Dongyang Mirae University (Computer Software Engineering).
 Interested in **time-series prediction, vision-language models, and embodied intelligence**.
 
 ---
