@@ -1,50 +1,35 @@
 # Jiho Choi
 
-**Backend Developer · Financial ML Researcher**
+**Backend Developer · Financial ML**
 
-Backend developer and undergraduate in Computer Software Engineering at Dongyang Mirae University.
-I build and evaluate machine learning systems for financial markets, with a focus on
-**robust evaluation under non-stationarity** — making sure a signal still works when the market regime changes.
+Backend developer and Computer Software Engineering undergraduate at Dongyang Mirae University.
+Interested in building ML systems for financial markets that hold up when market regimes change.
 
 ---
 
-## 🔬 Research Focus
+## 🔬 Interests
 
-**Financial ML**
-- Cross-sectional stock return prediction and systematic security selection
-- Regime shifts and time-varying predictive relationships
-- Robust evaluation: walk-forward validation, leakage prevention, cost-aware backtesting
-- Hybrid architectures combining tree-based models and sequence models
-
-**Exploring: Crypto & Decentralized Markets**
-- On-chain data analysis and anomalous transaction detection
-- DeFi market microstructure: AMMs, liquidity provision, MEV
-- Stablecoins and payment infrastructure for AI-agent economies
-- Algorithmic collusion among autonomous trading agents
+- Cross-sectional stock prediction and security selection
+- Robust evaluation: walk-forward validation, leakage prevention, regime shifts
+- Hybrid tree-based and sequence models
+- Currently learning about crypto markets, DeFi, and on-chain data
 
 ---
 
 ## 📄 Selected Work
 
-**Cross-Sectional Time-Series Prediction Using Multi-Time-Window Information**
-*Manuscript in preparation for 지능정보연구 (JIIS)*
+**Cross-Sectional Time-Series Prediction Using Multi-Time-Window Information** *(in preparation)*
 
-- Role-separated ensemble: LightGBM screens candidates from state features, a dual-input LSTM re-ranks them using temporal flow features
-- Identified a regime-inversion problem in signed momentum features and replaced them with regime-neutral magnitude/volatility features
-- Evaluated with 4-fold walk-forward validation, multi-seed reproducibility, transaction costs, and an out-of-sample holdout period
+LightGBM + LSTM role-separated ensemble with regime-neutral feature design, evaluated via walk-forward validation.
 
 ---
 
 ## 🛠 Tech Stack
 
-**ML / Research** `Python` `PyTorch` `LightGBM` `scikit-learn` `Pandas` `NumPy`
-
-**Backend / Data** `Java` `Spring Boot` `FastAPI` `MySQL` `Redis`
-
-**Infrastructure** `Docker` `AWS` `Git` `GitHub Actions`
+`Python` `PyTorch` `LightGBM` `scikit-learn` `Pandas`
+`Java` `Spring Boot` `FastAPI` `MySQL` `Redis`
+`Docker` `AWS` `Git`
 
 ---
 
-## 📫 Contact
-
-aha1026920@gmail.com
+📫 aha1026920@gmail.com
